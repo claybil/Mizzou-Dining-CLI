@@ -1,4 +1,4 @@
-# mizzou_dining_info
+# Mizzou_Dining_CLI
 Command-line version for testing purposes.
 
 ## NOTE
